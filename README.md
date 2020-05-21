@@ -12,5 +12,5 @@
    1. Redesigned an old Salvation Army application form following better system design principles
    
 ## Looking For Java Files?
-   * Inventory > src >
-   * SACAP > src > 
+   * Inventory > src > [filename].java
+   * SACAP > src > [filename].java
