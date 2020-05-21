@@ -1,5 +1,5 @@
 # 2 GUI projects:
-## 1. Inventory Project:
+## Inventory Project:
 #####   NOTE: MS Access DB file should be placed in the Public folder if you are going to test the GUI! 
    1. Using the Java odbc ucanaccess connection, linked a MS Access Database to the GUI.
    1. Features: 
@@ -7,7 +7,7 @@
       * Filters by Category and Price
       * Menu bar with options to sort the items
   
-## 2.) SACAP (Salvation Army form rework):
+## SACAP (Salvation Army Form Rework):
    1. Redesigned an old Salvation Army application form following better system design principles
    
 ## Looking For Java Files?
