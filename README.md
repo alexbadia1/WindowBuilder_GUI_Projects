@@ -9,4 +9,4 @@
 ###   NOTE: MS Access DB file should be placed in the Public folder if you are going to test the GUI! 
   
 ## 2.) SACAP (Salvation Army form rework):
-   * Redesigned an old Salvation Army application form following better system design principles
+   1. Redesigned an old Salvation Army application form following better system design principles
